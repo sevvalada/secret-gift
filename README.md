@@ -63,6 +63,14 @@ Katılımcıların eklenebildiği, düzenlenebildiği ve silinebildiği yönetim
 | 🚀 Netlify | Deployment |
 
 <br>
+## EKRAN GÖRÜNTÜSÜ
+ <img width="935" height="632" alt="Ekran görüntüsü 2026-10-07 132549" src="https://github.com/user-attachments/assets/23e9a28c-836f-45d7-a90b-03ac585c7274" />
+ <br>
+ <img width="1117" height="583" alt="Ekran görüntüsü 2026-10-07 132533" src="https://github.com/user-attachments/assets/04d4456b-05e4-40a5-8afc-62ffcf5fe795" />
+<br>
+ <img width="1112" height="760" alt="Ekran görüntüsü 2026-10-07 132525" src="https://github.com/user-attachments/assets/dddeb902-be84-4aca-bcf6-bd3fc8532434" />
+
+
 
 ## 📁 Project Structure
 
